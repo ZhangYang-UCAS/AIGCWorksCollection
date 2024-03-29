@@ -36,6 +36,10 @@
       [[paper](https://arxiv.org/abs/2403.07420)]
       [[GitHub](https://github.com/showlab/DragAnything)]
 
+8. **AniPortrait:** Audio-Driven Synthesis of Photorealistic Portrait Animation (2024)
+   -  [[paper](https://arxiv.org/abs/2403.17694)]
+      [[GitHub](https://github.com/Zejun-Yang/AniPortrait)]
+
 ## Code Not Yet Released
 
 1. **LivePhoto:** Real Image Animation with Text-guided Motion Control (2023)
@@ -45,6 +49,7 @@
      
 2. **I2V-Adapter:** A General Image-to-Video Adapter for Video Diffusion Models (2023)
    - [[paper](https://arxiv.org/abs/2312.16693)]
+     [[GitHub]](no code)
      
 3. **DreamVideo:** High-Fidelity Image-to-Video Generation with Image Retention and Text Guidance (2023)
    - [[Project](https://anonymous0769.github.io/DreamVideo/)]
@@ -80,6 +85,9 @@
       [[paper](https://arxiv.org/abs/2403.08268)]
       [[GitHub](https://github.com/mayuelala/FollowYourClick)](comming soon)
 
+10. ** X-Portrait **Expressive Portrait Animation with Hierarchical Motion Attention (2024)
+   -  [[paper](https://arxiv.org/abs/2403.15931)]
+      [[GitHub]()](no code)
 ## Workflow
 
-1. [Reddit Post](https://www.reddit.com/r/StableDiffusion/comments/1bpl6gx/animatediff_is_reaching_a_whole_new_level_of/) - *AnimateDiff* is reaching a whole new level of...
+1. [Reddit Post](https://www.reddit.com/r/StableDiffusion/comments/1bpl6gx/animatediff_is_reaching_a_whole_new_level_of/) - *AnimateDiff* is reaching a whole new level

@@ -40,6 +40,12 @@
    -  [[paper](https://arxiv.org/abs/2403.17694)]
       [[GitHub](https://github.com/Zejun-Yang/AniPortrait)]
 
+9. **Champ:** Controllable and Consistent Human Image Animation with 3D Parametric Guidance (2024)
+   -  [[Project](https://fudan-generative-vision.github.io/champ/#/)]
+      [[paper](https://arxiv.org/abs/2403.14781)]
+      [[GitHub](https://github.com/fudan-generative-vision/champ)]
+
+
 ## Code Not Yet Released
 
 1. **LivePhoto:** Real Image Animation with Text-guided Motion Control (2023)
@@ -49,7 +55,7 @@
      
 2. **I2V-Adapter:** A General Image-to-Video Adapter for Video Diffusion Models (2023)
    - [[paper](https://arxiv.org/abs/2312.16693)]
-     [[GitHub]](no code)
+     [(no code)]
      
 3. **DreamVideo:** High-Fidelity Image-to-Video Generation with Image Retention and Text Guidance (2023)
    - [[Project](https://anonymous0769.github.io/DreamVideo/)]
@@ -68,7 +74,7 @@
 6. **MicroCinema:** A Divide-and-Conquer Approach for Text-to-Video Generation (2023)
    - [[Project](https://wangyanhui666.github.io/MicroCinema.github.io/)]
       [[paper](https://arxiv.org/abs/2311.18829)]
-      [[GitHub]](no code)
+      [(no code)]
      
 7. **Moonshot:** Towards Controllable Video Generation and Editing with Multimodal Conditions (2024)
    - [[Project](https://showlab.github.io/Moonshot/)]
@@ -85,7 +91,7 @@
       [[paper](https://arxiv.org/abs/2403.08268)]
       [[GitHub](https://github.com/mayuelala/FollowYourClick)](comming soon)
 
-10. ** X-Portrait **Expressive Portrait Animation with Hierarchical Motion Attention (2024)
+10. **X-Portrait:** Expressive Portrait Animation with Hierarchical Motion Attention (2024)
    -  [[paper](https://arxiv.org/abs/2403.15931)]
       [(no code)]
 ## Workflow

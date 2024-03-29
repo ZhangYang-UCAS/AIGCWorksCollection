@@ -3,14 +3,14 @@
 ## Code Releases
 
 1. **I2VGen-XL:** High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models (2023)
-   - [[Website](https://arxiv.org/abs/2311.04145)]
-     [[Project](https://i2vgen-xl.github.io/)]
+   - [[Project](https://i2vgen-xl.github.io/)]
+     [[paper](https://arxiv.org/abs/2311.04145)]
      [[GitHub](https://github.com/ali-vilab/VGen)]
 
 2. **AnimateDiff:** Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning (2023)
-   - [[Website](https://arxiv.org/abs/2307.04725)]
-    [[Project](https://animatediff.github.io/)]
-    [[GitHub](https://github.com/guoyww/AnimateDiff)]
+   - [[Project](https://animatediff.github.io/)]
+     [[Website](https://arxiv.org/abs/2307.04725)]
+     [[GitHub](https://github.com/guoyww/AnimateDiff)]
 
 4. **DreamTalk:** When Expressive Talking Head Generation Meets Diffusion Probabilistic Models (2023)
    - Code: [GitHub](https://github.com/ali-vilab/dreamtalk)

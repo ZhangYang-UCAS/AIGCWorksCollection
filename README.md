@@ -9,20 +9,28 @@
 
 2. **AnimateDiff:** Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning (2023)
    - [[Project](https://animatediff.github.io/)]
-     [[Website](https://arxiv.org/abs/2307.04725)]
+     [[paper](https://arxiv.org/abs/2307.04725)]
      [[GitHub](https://github.com/guoyww/AnimateDiff)]
 
 4. **DreamTalk:** When Expressive Talking Head Generation Meets Diffusion Probabilistic Models (2023)
-   - Code: [GitHub](https://github.com/ali-vilab/dreamtalk)
+   - [[Project](https://dreamtalk-project.github.io/)]
+     [[paper](https://arxiv.org/abs/2312.09767)]
+     [GitHub](https://github.com/ali-vilab/dreamtalk)
 
 5. **AnimateLCM:** Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning (2024)
-   - Code: [GitHub](https://github.com/G-U-N/AnimateLCM)
+   - 
+     [[paper](https://arxiv.org/abs/2402.00769)]
+     [GitHub](https://github.com/G-U-N/AnimateLCM)
 
 6. **Stable Video Diffusion** (2024)
-   - Code: [Link](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
+   - [Project](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
+     [[paper](https://stability.ai/research/stable-video-diffusion-scaling-latent-video-diffusion-models-to-large-datasets)]
+     [[huggingface](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt)]
 
-7. **DragAnything:** Motion Control for Anything using Entity Representation (2024)
-   - Code: [GitHub](https://github.com/showlab/DragAnything)
+8. **DragAnything:** Motion Control for Anything using Entity Representation (2024)
+   - [[Project](https://weijiawu.github.io/draganything_page/)]
+      [[paper](https://arxiv.org/abs/2403.07420)]
+      [[GitHub](https://github.com/showlab/DragAnything)]
 
 ## Code Not Yet Released
 

@@ -92,7 +92,7 @@
       [[GitHub](https://github.com/mayuelala/FollowYourClick)](comming soon)
 
 10. **X-Portrait:** Expressive Portrait Animation with Hierarchical Motion Attention (2024)
-   -  [[paper](https://arxiv.org/abs/2403.15931)]
+    -  [[paper](https://arxiv.org/abs/2403.15931)]
         [(no code)]
 ## Workflow
 

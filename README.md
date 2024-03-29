@@ -27,7 +27,7 @@
      [[GitHub](https://github.com/G-U-N/AnimateLCM)]
 
 6. **Stable Video Diffusion** (2024)
-   - [Project](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
+   - [[Project](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)]
      [[paper](https://stability.ai/research/stable-video-diffusion-scaling-latent-video-diffusion-models-to-large-datasets)]
      [[huggingface](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt)]
 
@@ -92,7 +92,7 @@
       [[GitHub](https://github.com/mayuelala/FollowYourClick)](comming soon)
 
 10. **X-Portrait:** Expressive Portrait Animation with Hierarchical Motion Attention (2024)
-   -    [[paper](https://arxiv.org/abs/2403.15931)]
+   -  [[paper](https://arxiv.org/abs/2403.15931)]
         [(no code)]
 ## Workflow
 

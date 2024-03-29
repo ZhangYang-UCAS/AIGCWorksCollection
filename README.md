@@ -78,7 +78,7 @@
 8. **Motion-I2V:** Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling (2024)
    -  [[Project](https://xiaoyushi97.github.io/Motion-I2V/)]
       [[paper](https://arxiv.org/abs/2401.15977)]
-      [[GitHub]](no code)
+      [(no code)]
      
 9. **Follow-Your-Click:** Open-domain Regional Image Animation via Short Prompts (2024)
    -  [[Project](https://follow-your-click.github.io/)]
@@ -87,7 +87,7 @@
 
 10. ** X-Portrait **Expressive Portrait Animation with Hierarchical Motion Attention (2024)
    -  [[paper](https://arxiv.org/abs/2403.15931)]
-      [[GitHub]()](no code)
+      [(no code)]
 ## Workflow
 
 1. [Reddit Post](https://www.reddit.com/r/StableDiffusion/comments/1bpl6gx/animatediff_is_reaching_a_whole_new_level_of/) - *AnimateDiff* is reaching a whole new level

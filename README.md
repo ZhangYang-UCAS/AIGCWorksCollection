@@ -93,6 +93,13 @@
 10. **X-Portrait:** Expressive Portrait Animation with Hierarchical Motion Attention (2024)
     -  [[paper](https://arxiv.org/abs/2403.15931)]
         [(no code)]
+
+11. **VLOGGER:** Multimodal Diffusion for Embodied Avatar Synthesis (2024)
+    -   [[Project](https://enriccorona.github.io/vlogger/)]
+      [[paper](https://arxiv.org/abs/2403.08764)]
+        [(no code)]
+    
+
 ## Workflow
 
 1. [Reddit Post](https://www.reddit.com/r/StableDiffusion/comments/1bpl6gx/animatediff_is_reaching_a_whole_new_level_of/) - *AnimateDiff* is reaching a whole new level

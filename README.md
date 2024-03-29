@@ -36,15 +36,14 @@
       [[paper](https://arxiv.org/abs/2403.07420)]
       [[GitHub](https://github.com/showlab/DragAnything)]
 
-8. **AniPortrait:** Audio-Driven Synthesis of Photorealistic Portrait Animation (2024)
-   -  [[paper](https://arxiv.org/abs/2403.17694)]
-      [[GitHub](https://github.com/Zejun-Yang/AniPortrait)]
-
-9. **Champ:** Controllable and Consistent Human Image Animation with 3D Parametric Guidance (2024)
+8. **Champ:** Controllable and Consistent Human Image Animation with 3D Parametric Guidance (2024)
    -  [[Project](https://fudan-generative-vision.github.io/champ/#/)]
       [[paper](https://arxiv.org/abs/2403.14781)]
       [[GitHub](https://github.com/fudan-generative-vision/champ)]
 
+9. **AniPortrait:** Audio-Driven Synthesis of Photorealistic Portrait Animation (2024)
+   -  [[paper](https://arxiv.org/abs/2403.17694)]
+      [[GitHub](https://github.com/Zejun-Yang/AniPortrait)]
 
 ## Code Not Yet Released
 

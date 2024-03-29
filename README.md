@@ -18,8 +18,7 @@
      [GitHub](https://github.com/ali-vilab/dreamtalk)
 
 5. **AnimateLCM:** Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning (2024)
-   - 
-     [[paper](https://arxiv.org/abs/2402.00769)]
+   - [[paper](https://arxiv.org/abs/2402.00769)]
      [GitHub](https://github.com/G-U-N/AnimateLCM)
 
 6. **Stable Video Diffusion** (2024)

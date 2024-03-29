@@ -8,7 +8,7 @@
      [[GitHub](https://github.com/ali-vilab/VGen)]
 
 2. **AnimateDiff:** Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning (2023)
-   -[[Website](https://arxiv.org/abs/2307.04725)]
+   - [[Website](https://arxiv.org/abs/2307.04725)]
     [[Project](https://animatediff.github.io/)]
     [[GitHub](https://github.com/guoyww/AnimateDiff)]
 

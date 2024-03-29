@@ -8,18 +8,20 @@
      [[GitHub](https://github.com/ali-vilab/VGen)]
 
 2. **AnimateDiff:** Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning (2023)
-   - Code: [GitHub](https://github.com/guoyww/AnimateDiff)
+   -[[Website](https://arxiv.org/abs/2307.04725)]
+    [[Project](https://animatediff.github.io/)]
+    [[GitHub](https://github.com/guoyww/AnimateDiff)]
 
-3. **DreamTalk:** When Expressive Talking Head Generation Meets Diffusion Probabilistic Models (2023)
+4. **DreamTalk:** When Expressive Talking Head Generation Meets Diffusion Probabilistic Models (2023)
    - Code: [GitHub](https://github.com/ali-vilab/dreamtalk)
 
-4. **AnimateLCM:** Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning (2024)
+5. **AnimateLCM:** Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning (2024)
    - Code: [GitHub](https://github.com/G-U-N/AnimateLCM)
 
-5. **Stable Video Diffusion** (2024)
+6. **Stable Video Diffusion** (2024)
    - Code: [Link](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
 
-6. **DragAnything:** Motion Control for Anything using Entity Representation (2024)
+7. **DragAnything:** Motion Control for Anything using Entity Representation (2024)
    - Code: [GitHub](https://github.com/showlab/DragAnything)
 
 ## Code Not Yet Released

@@ -59,18 +59,22 @@
    - [[Project](https://guoyww.github.io/projects/SparseCtrl/)]
       [[paper](https://arxiv.org/abs/2311.16933)]
       [[GitHub](https://github.com/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl)]
+     
 11. **MicroCinema:** A Divide-and-Conquer Approach for Text-to-Video Generation (2023)
    - [[Project](https://wangyanhui666.github.io/MicroCinema.github.io/)]
       [[paper](https://arxiv.org/abs/2311.18829)]
       [[GitHub]](no code)
+     
 13. **Moonshot:** Towards Controllable Video Generation and Editing with Multimodal Conditions (2024)
    - [[Project](https://showlab.github.io/Moonshot/)]
       [[paper](https://arxiv.org/abs/2401.01827)]
       [[GitHub]](comming soon)
+     
 14. **Motion-I2V:** Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling (2024)
    - [[Project](https://xiaoyushi97.github.io/Motion-I2V/)]
       [[paper](https://arxiv.org/abs/2401.15977)]
       [[GitHub]](no code)
+     
 15. **Follow-Your-Click:** Open-domain Regional Image Animation via Short Prompts (2024)
    - [[Project](https://follow-your-click.github.io/)]
       [[paper](https://arxiv.org/abs/2403.08268)]

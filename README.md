@@ -2,7 +2,7 @@
 
 ## Code has been released
 
-1. I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models (2023)
+1. I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models (2023)\n
    code: https://github.com/ali-vilab/VGen
 2. AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning (2023)
    code: https://github.com/guoyww/AnimateDiff

@@ -104,5 +104,5 @@
 
 1. [Reddit Post](https://www.reddit.com/r/StableDiffusion/comments/1bpl6gx/animatediff_is_reaching_a_whole_new_level_of/) - *AnimateDiff* is reaching a whole new level
 
-2.[civitai](https://civitai.com/models/335070/simple-lcm-img2vid-workflow-or-comfyui) -Simple LCM img2vid workflow | ComfyUI
+3. [civitai](https://civitai.com/models/335070/simple-lcm-img2vid-workflow-or-comfyui) -Simple LCM img2vid workflow | ComfyUI
 
